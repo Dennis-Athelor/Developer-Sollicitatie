@@ -1,0 +1,8 @@
+name: PermissionsSystem
+main: me.Athelor.perm.Permission
+version: 1.0
+author: Athelor
+commands:
+  perm:
+  group:
+  user:
